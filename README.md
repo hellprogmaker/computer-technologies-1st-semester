@@ -1,1 +1,3 @@
-# computer-technologies-1st-semester
+# computer technologies of 1st semester
+
+This file is programming theory of 1st semester. This is all !
